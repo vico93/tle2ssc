@@ -21,15 +21,45 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uPrincipal"/>
         <IsVisibleTab Value="True"/>
+        <TopLine Value="55"/>
+        <CursorPos X="50" Y="59"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="1">
+    <JumpHistory Count="8" HistoryIndex="7">
       <Position1>
         <Filename Value="uprincipal.pas"/>
       </Position1>
+      <Position2>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="32" Column="3" TopLine="29"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="48" Column="24" TopLine="37"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="61" Column="82" TopLine="48"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="59" Column="50" TopLine="50"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="24" Column="30" TopLine="51"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="60" Column="3" TopLine="56"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="24" Column="15" TopLine="14"/>
+      </Position8>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
