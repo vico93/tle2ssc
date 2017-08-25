@@ -1,0 +1,34 @@
+object Form1: TForm1
+  Left = 320
+  Height = 480
+  Top = 130
+  Width = 640
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object titulo1: TLabel
+    Left = 40
+    Height = 30
+    Top = 8
+    Width = 554
+    Caption = 'CONVERSION OF NORAD TWO-LINE ELEMENT FORMAT'
+    Font.Height = -21
+    Font.Pitch = fpFixed
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object titulo2: TLabel
+    Left = 104
+    Height = 30
+    Top = 40
+    Width = 416
+    Caption = 'TO A CELESTIA EARTH-ORBIT DEFINITION'
+    Font.Height = -21
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end
